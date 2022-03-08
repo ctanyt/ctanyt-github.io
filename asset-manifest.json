@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.c1645fdd.css",
-    "main.js": "/static/js/main.36b128b1.js",
+    "main.js": "/static/js/main.b9735066.js",
     "static/media/celestine.jpg": "/static/media/celestine.cdd34e6a70257a8e4fe5.jpg",
     "static/media/resume.pdf": "/static/media/resume.c4f25509451c805a1fbd.pdf",
     "index.html": "/index.html",
     "main.c1645fdd.css.map": "/static/css/main.c1645fdd.css.map",
-    "main.36b128b1.js.map": "/static/js/main.36b128b1.js.map"
+    "main.b9735066.js.map": "/static/js/main.b9735066.js.map"
   },
   "entrypoints": [
     "static/css/main.c1645fdd.css",
-    "static/js/main.36b128b1.js"
+    "static/js/main.b9735066.js"
   ]
 }
