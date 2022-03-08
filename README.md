@@ -4,7 +4,7 @@
   <h1 align="center">My Portfolio ✨</h1>
 
   <p align="center">
-    <a href="https://ctanyt.github.io/ctanyt.github.io">ctanyt.github.io</a>
+    <a href="https://ctanyt.github.io">ctanyt.github.io</a>
    modified from
     <a href="https://hashirshoaeb.github.io">hashirshoaeb.github.io</a> (Thanks for making my life easier Hashir!)
 
